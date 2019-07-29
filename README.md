@@ -76,3 +76,25 @@ https://deeplearningcourses.com/c/deep-learning-convolutional-neural-networks-th
 
 Unsupervised Deep Learning in Python
 https://deeplearningcourses.com/c/unsupervised-deep-learning-in-python
+
+Datasets:
+
+Word2vec and GloVe
+1. https://dumps.wikimedia.org/
+1.1 https://dumps.wikimedia.org/backup-index.html
+1.1.1 https://dumps.wikimedia.org/enwiki/20190720
+
+download the file: https://dumps.wikimedia.org/enwiki/20190720/enwiki-20190720-pages-articles1.xml-p10p30302.bz2
+
+2. Look for the files with "pages-articles" in the filename
+3. Convert from XML to TXT with 
+4. https://github.com/yohasebe/wp2txt
+5. Put these TXT files into large_files, adjacent to the class folder
+6. Install: sudo gem install wp2xt
+7. Run w2ptxt -i <filename>
+
+Datasets:
+1. POS tagging:
+2. http://www.cnts.ua.ac.be/conll2000/chunking/
+3. NER
+4. https://github.com/aritter/twitter_nlp/blob/master/data/annotated/ner.txt
