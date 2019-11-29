@@ -1,3 +1,18 @@
     4  wget https://repo.anaconda.com/archive/Anaconda3-5.0.1-Linux-x86_64.sh
    27  wget http://www.cs.cornell.edu/~cristian/data/cornell_movie_dialogs_corpus.zip
 
+# resource
+https://www.superdatascience.com/pages/deep-learning-chatbot
+
+# chkpts
+wget -c 'https://www.dropbox.com/s/qfm0ugb9m3laenf/cmudict_ckpt.tar.gz?dl=0' -O cmudict_ckpt.tar.gz
+
+# github implementations
+http://suriyadeepan.github.io/2016-06-28-easy-seq2seq/
+http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/
+https://github.com/suriyadeepan/practical_seq2seq
+
+# github hyper-paramters
+http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/
+https://github.com/suriyadeepan/practical_seq2seq/blob/master/datasets/cornell_corpus/data.py
+
