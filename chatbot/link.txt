@@ -4,6 +4,18 @@
 # resource
 https://www.superdatascience.com/pages/deep-learning-chatbot
 
+# Google Colab Cloud Training File for GPU.
+https://www.superdatascience.com/pages/deep-learning-chatbot 
+
+You can upload the files using the following steps:
+1. Go to https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
+2. Select a new Python 3 Notebooks
+3. File
+4. Upload Notebooks
+
+
+https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
+
 # chkpts
 wget -c 'https://www.dropbox.com/s/qfm0ugb9m3laenf/cmudict_ckpt.tar.gz?dl=0' -O cmudict_ckpt.tar.gz
 
